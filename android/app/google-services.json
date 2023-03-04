@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741523968672",
+    "project_id": "applicationbally",
+    "storage_bucket": "applicationbally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741523968672:android:e8fcf37ae3eaeeb8e6efc5",
+        "android_client_info": {
+          "package_name": "com.example.ball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741523968672-nfcaji5ca35ftfk13fu3dfv2actc7vtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDNC18fMDKPKAC__m0fhqyie9FfDqjEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741523968672-nfcaji5ca35ftfk13fu3dfv2actc7vtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
